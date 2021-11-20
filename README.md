@@ -1,5 +1,5 @@
 # TunedM2M
-This repository hosts code for the paper *Combining Transfer Learning AndTransformer Attention Mechanism to Increase Aqueous Solubility Prediction Performance*
+This repository hosts code for the paper *Combining Transfer Learning And Transformer Attention Mechanism to Increase Aqueous Solubility Prediction Performance*
 
 ### Installation
 
@@ -11,10 +11,14 @@ This repository hosts code for the paper *Combining Transfer Learning AndTransfo
 git clone https://github.com/magdalenawi/TunedM2M
 cd TunedM2M
 pip install -r requirements.txt
+conda install rdkit -c rdkit
+conda install pytorch=0.4.1 torchvision -c pytorch
+pip install torchtext==0.3.1
+pip install dgl
 ```
 
 ### Datasets
-Available [here](https://github.com/magdalenawi/TunedM2M/tree/main/data).
+Available [here](https://github.com/magdalenawi/TunedM2M/data).
 
 ### Experiments
 
