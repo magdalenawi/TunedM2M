@@ -1,5 +1,5 @@
 # TunedM2M
-This repository hosts code for the paper *Combining Transfer Learning And Transformer Attention Mechanism to Increase Aqueous Solubility Prediction Performance*
+This repository hosts code for the paper *Combining Transfer Learning And Transformer Attention Mechanism to Increase Aqueous Solubility Prediction Performance*.
 
 ### Installation
 
