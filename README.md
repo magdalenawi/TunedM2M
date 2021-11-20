@@ -21,5 +21,5 @@ pip install dgl
 Available [here](https://github.com/magdalenawi/TunedM2M/tree/main/data).
 
 ### Experiments
-
+For the experiments one can use the datasets found in the link above. In the simplest scenario, you only need to run the *predict_demo.py* script.
 
