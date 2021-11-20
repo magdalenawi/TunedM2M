@@ -18,7 +18,7 @@ pip install dgl
 ```
 
 ### Datasets
-Available [here](https://github.com/magdalenawi/TunedM2M/data).
+Available [here](https://github.com/magdalenawi/TunedM2M/tree/main/data).
 
 ### Experiments
 
